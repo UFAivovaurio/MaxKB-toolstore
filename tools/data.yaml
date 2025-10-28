@@ -31,3 +31,17 @@ additionalProperties:
         en: "Document Tool"
         zh-hant: "內容處理"
         zh: "内容处理"
+    - key: send_message
+      name: 消息推送
+      sort: 50
+      locales:
+        en: "Send Message"
+        zh-hant: "發送消息"
+        zh: "发送消息"
+    - key: translation_tool
+      name: 翻译工具
+      sort: 60
+      locales:
+        en: "Translation Tool"
+        zh-hant: "翻譯工具"
+        zh: "翻译工具"
