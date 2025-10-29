@@ -45,7 +45,7 @@ pip install requests
 
 ### 3.1 部署html-to-pdf服务
 
-[html-to-pdf.tar](https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/yuque/0/2025/tar/2553020/1755763026795-9620b803-1e5a-4306-abb9-a3f5bbae6295.tar?OSSAccessKeyId=LTAI4GKnqTWmz2X8mzA1Sjbv&Expires=1761721588&Signature=nGDJCGLvW%2FUo65SMDAlQ54KS2rM%3D&response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27html-to-pdf.tar)
+[html-to-pdf.tar](registry.cn-hangzhou.aliyuncs.com/functions_mk/html-to-pdf:latest)
 
 ```linux
 # 加载镜像
