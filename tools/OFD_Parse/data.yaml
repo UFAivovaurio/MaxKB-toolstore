@@ -1,0 +1,5 @@
+name: OFD文件提取
+tags:
+  - 内容处理
+title: 提取 OFD 信息
+description: 实现将 OFD 文件的信息进行提取，并以 json 返回
