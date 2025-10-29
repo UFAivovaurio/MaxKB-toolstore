@@ -45,7 +45,7 @@ pip install requests
 
 ### 3.1 部署html-to-pdf服务
 
-[html-to-pdf.tar](registry.cn-hangzhou.aliyuncs.com/functions_mk/html-to-pdf:latest)
+镜像下载地址：registry.cn-hangzhou.aliyuncs.com/functions_mk/html-to-pdf:latest
 
 ```linux
 # 加载镜像
