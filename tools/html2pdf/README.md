@@ -49,7 +49,7 @@ pip install requests
 
 ```linux
 # 加载镜像
-docker load -i html-to-pdf.tar
+docker pull registry.cn-hangzhou.aliyuncs.com/functions_mk/html-to-pdf:latest
 
 # 启动
 docker run -d -p 6000:6000 --name convertpdf  html-to-pdf
