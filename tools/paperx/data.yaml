@@ -1,5 +1,5 @@
 name: PDF转图片工具
 tags:
   - 内容处理
-title: 将 Markdown 文本转换为 DOCX 文档
-description: 实现将 Markdown 文本转换为 Microsoft Word DOCX 文档，并上传到 Kodbox
+title: 将 PDF 文件转换为 图片 
+description: 一个用于将 PDF 转 图片 的工具，支持将PDF文件进行切割并上传至MaxKB OSS中。
