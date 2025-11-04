@@ -45,11 +45,13 @@ pip install requests
 
 ### 3.1 部署html-to-pdf服务
 
-镜像下载地址：registry.cn-hangzhou.aliyuncs.com/functions_mk/html-to-pdf:latest
+镜像下载地址：
+链接：https://pan.quark.cn/s/93ce097884a2?pwd=cYqc
+提取码：cYqc
 
 ```linux
 # 加载镜像
-docker pull registry.cn-hangzhou.aliyuncs.com/functions_mk/html-to-pdf:latest
+docker load -i html-to-pdf.tar
 
 # 启动
 docker run -d -p 6000:6000 --name convertpdf  html-to-pdf
