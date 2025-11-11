@@ -49,6 +49,8 @@ pip install requests
 链接：https://pan.quark.cn/s/93ce097884a2?pwd=cYqc
 提取码：cYqc
 
+临时链接：http://t5jihue9q.hd-bkt.clouddn.com/html-to-pdf.tar
+
 ```linux
 # 加载镜像
 docker load -i html-to-pdf.tar
