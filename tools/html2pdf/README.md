@@ -46,12 +46,13 @@ pip install requests
 ### 3.1 部署html-to-pdf服务
 
 镜像下载地址：
-链接：https://pan.quark.cn/s/93ce097884a2?pwd=cYqc
-提取码：cYqc
-
-临时链接：http://t5jihue9q.hd-bkt.clouddn.com/html-to-pdf.tar
+链接：https://pan.quark.cn/s/3bba18351775?pwd=S4TF
+提取码：S4TF
 
 ```linux
+# 解压文件
+unzip htmltopdf.zip
+
 # 加载镜像
 docker load -i html-to-pdf.tar
 
