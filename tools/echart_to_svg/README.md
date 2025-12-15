@@ -10,6 +10,8 @@
 
 
 ```linux
+# 解压文件
+unzip html-to-pdf.zip
 
 # 加载镜像
 docker load < html-to-pdf.tar
