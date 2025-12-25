@@ -59,3 +59,10 @@ additionalProperties:
         en: "Knowledge Template"
         zh-hant: "知識庫範本"
         zh: "知识库模板"
+    - key: application_template
+      name: 应用模板
+      sort: 90
+      locales:
+        en: "Application Template"
+        zh-hant: "應用範本"
+        zh: "应用模板"
