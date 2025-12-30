@@ -61,4 +61,4 @@ pip install requests
 
 - **网络问题**： 确保 MaxKB 服务和 镜像服务网络连接正常
 - **html格式**：若 html 里链接本地图片，将图片放到 /opt/test-pdf/convert_files/images 即可。
-在 html 里格式 <img src="file:///tmp/convert_files/images/stream.png">
+在 html 里格式 ```<img src="file:///tmp/convert_files/images/stream.png">```
