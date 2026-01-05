@@ -48,7 +48,7 @@
 ```
 
 - 工作流截图：
-<img src="img.png">
+<img src="https://maxkb-apps-1323865188.cos.ap-shanghai.myqcloud.com/学生知识点自测.png">
 
 ## 4. 学生知识点自测应用效果
-<img src="gif.gif">
+<img src="https://maxkb-apps-1323865188.cos.ap-shanghai.myqcloud.com/学生知识点自测.gif">
