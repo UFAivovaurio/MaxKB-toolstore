@@ -51,4 +51,4 @@
 ![工作流截图](https://i-blog.csdnimg.cn/direct/3ae2911ac1644db5a00e0246be419f79.png)
 
 ## 四、应用效果
-![alt text](合同审核智能体.gif)
+![alt text](./合同审核智能体.gif。
